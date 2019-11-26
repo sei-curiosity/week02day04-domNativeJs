@@ -20,8 +20,8 @@ By the end of this, developers should be able to:
 ## Preparation
 
 1. Fork and clone
-2. Create a new branch, `training`, for your work and change into it.
-3. Create a new `code` directory with a sub-directory named `playground` and `cd` into it.
+<!-- 2. Create a new branch, `training`, for your work and change into it. -->
+<!-- 3. Create a new `code` directory with a sub-directory named `playground` and `cd` into it. -->
 
 ## Slides
 
